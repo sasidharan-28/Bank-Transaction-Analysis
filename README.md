@@ -38,10 +38,9 @@ Bank_Transaction_Mini_Project/
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sasidharan-28/Bank-Transaction-Analysis.git
+cd Bank-Transaction-Analysis
 ```
-*(Make sure to replace `your-username` and `your-repo-name` with your actual GitHub details).*
 
 ---
 
